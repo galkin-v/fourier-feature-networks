@@ -1,4 +1,4 @@
-# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains Torch Demo
+# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains PyTorch Demo
 ### [Project Page](https://bmild.github.io/fourfeat/) | [Paper](https://arxiv.org/abs/2006.10739)
 The demo has been rewritten in torch.
 
