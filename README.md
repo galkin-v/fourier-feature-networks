@@ -1,6 +1,6 @@
-# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains
+# Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains Torch Demo
 ### [Project Page](https://bmild.github.io/fourfeat/) | [Paper](https://arxiv.org/abs/2006.10739)
-[![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb)<br>
+The demo has been rewritten in torch.
 
 [Matthew Tancik](http://tancik.com/)\*<sup>1</sup>,
 [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/)\*<sup>1,2</sup>,
